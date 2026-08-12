@@ -1,7 +1,7 @@
 <p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
 
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=35&pause=1000&color=78A4CB&center=true&vCenter=true&width=700&lines=%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86+Hi+everyone!!!+%E2%8B%86%CB%99%E2%9F%A1%E2%AD%92;Welcome+to+my+profile!;Learning+something+new+everyday!" alt="Typing SVG" /></a></p>
-<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=38&pause=1000&color=67A2C5&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=150&lines=%E2%8A%B9%E2%82%8A%E2%8B%86+I'm+Safiya+Nazly+%E2%8B%86%CB%9A%E0%BF%94;A+CompSci+Undergrad" alt="Typing SVG" /></a></p>
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=38&pause=1000&color=67A2C5&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=100&lines=%E2%8A%B9%E2%82%8A%E2%8B%86+I'm+Safiya+Nazly+%E2%8B%86%CB%9A%E0%BF%94;A+CompSci+Undergrad" alt="Typing SVG" /></a></p>
 <!--<p align="center">
   <img src="banner.png" width="100%" alt="banner"/>
 </p>-->
