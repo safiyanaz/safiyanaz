@@ -1,16 +1,12 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=78A4CB&center=true&vCenter=true&width=520&lines=%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86+Hi+everyone!!!+%E2%8B%86%CB%99%E2%9F%A1%E2%AD%92;Welcome+to+my+profile!;Learning+something+new+everyday!)](https://git.io/typing-svg)
 <p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=25&pause=1000&color=78A4CB&center=true&vCenter=true&width=435&lines=%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86+Hi+everyone!!!+%E2%8B%86%CB%99%E2%9F%A1%E2%AD%92;Welcome+to+my+profile!;Learning+something+new+everyday!)](https://git.io/typing-svg)
-## Hi there 👋
-
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=78A4CB&center=true&vCenter=true&width=600&lines=%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86+Hi+everyone!!!+%E2%8B%86%CB%99%E2%9F%A1%E2%AD%92;Welcome+to+my+profile!;Learning+something+new+everyday!" alt="Typing SVG" /></a></p>
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=67A2C5&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%E2%8A%B9%E2%82%8A%E2%8B%86+I'm+Safiya+Nazly+%E2%8B%86%CB%9A%E0%BF%94;A+CompSci+Undergrad" alt="Typing SVG" /></a></p>
 <!--<p align="center">
   <img src="banner.png" width="100%" alt="banner"/>
 </p>-->
 
-<h2 align="center">Hey, I'm Safiya Nazly</h2>
-<p align="center">Computer Science Undergraduate </p>
+<p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
 
 <h3>Skills</h3>
 <div align = "center" gap = "50px">
