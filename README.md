@@ -8,14 +8,22 @@
 
 <p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
 
-<h3>Skills</h3>
-<div align = "center" gap = "50px">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</div>
+<h3>Languages</h3>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js&theme=light"/>
+  </a>
+</p>
+
+
+<!--
+<h3>Frameworks</h3>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js&theme=light"/>
+  </a>
+</p>
+
 
 <!--
 **safiyanazly-bit/safiyanazly-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
