@@ -1,3 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=78A4CB&center=true&vCenter=true&width=520&lines=%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86+Hi+everyone!!!+%E2%8B%86%CB%99%E2%9F%A1%E2%AD%92;Welcome+to+my+profile!;Learning+something+new+everyday!)](https://git.io/typing-svg)
+<p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=25&pause=1000&color=78A4CB&center=true&vCenter=true&width=435&lines=%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86+Hi+everyone!!!+%E2%8B%86%CB%99%E2%9F%A1%E2%AD%92;Welcome+to+my+profile!;Learning+something+new+everyday!)](https://git.io/typing-svg)
 ## Hi there 👋
 
 <!--<p align="center">
