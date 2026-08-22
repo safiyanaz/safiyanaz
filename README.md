@@ -15,6 +15,7 @@
   </a>
 </p>
 
+![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 <h3>Frameworks</h3>
