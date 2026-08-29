@@ -11,7 +11,7 @@
 <h3>Languages</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,nodejs,docker&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,nodejs,postgres,docker&theme=light"/>
   </a>
 </p>
 
