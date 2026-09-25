@@ -11,9 +11,24 @@
 <h3>Languages</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,nodejs,postgres,docker&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js&theme=light"/>
   </a>
 </p>
+
+<h3>Frameworks</h3>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,spring&theme=light"/>
+  </a>
+</p>
+
+<h3>Databases</h3>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light"/>
+  </a>
+</p>
+
 
 ![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
 
