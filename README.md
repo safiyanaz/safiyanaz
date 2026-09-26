@@ -7,7 +7,14 @@
 </p>-->
 
 <p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
+<h3>About Me</h3>
+<p>Hi, I'm Safiya Nazly, a Computer Science student at the University of Westminster (IIT Campus).
 
+I'm proficient in full-stack and backend development, working across **Python, Java, JavaScript, SQL/PostgreSQL, HTML/CSS, and Git**. I'm currently expanding into Machine Learning and AI, with hands-on experience in agentic AI development, database design, API development, and cybersecurity fundamentals.
+
+Always building, always learning</p>
+
+<p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
 <h3>Languages</h3>
 <p align="">
   <a href="https://skillicons.dev">
@@ -31,27 +38,3 @@
 
 
 ![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
-
-<!--
-<h3>Frameworks</h3>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js&theme=light"/>
-  </a>
-</p>
-
-
-<!--
-**safiyanazly-bit/safiyanazly-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
