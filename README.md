@@ -55,9 +55,10 @@ Always building, always learning</p>
 <p align = "center">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
 
 
-![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
+
 
 
 <!-- 
+![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 --> 
