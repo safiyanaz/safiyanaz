@@ -57,7 +57,7 @@ Always building, always learning</p>
 
 
 
-
+![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
 
 <!-- 
 ![](https://raw.githubusercontent.com/safiyanaz/github-stats-transparent/output/generated/languages.svg)
